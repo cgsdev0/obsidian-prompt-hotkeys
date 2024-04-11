@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-prompt-hotkeys",
+	"name": "Prompt Hotkeys",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "hotkeys for the prompt",
+	"author": "cgsdev0",
+	"authorUrl": "https://cgs.dev/0/",
+	"fundingUrl": "https://github.com/sponsors/cgsdev0",
+	"isDesktopOnly": true
+}
